@@ -49,10 +49,15 @@
 
 ## Refinement: For hyperparameter tuning, we use ModelCheckpoint of keras.callbacks with 25 epochs to measure accuracy and loss. The best modelinto a file.
 
-# Section 4: Results
-## Model Evaluation and Validation: 
-## Justification: 
+# Section 4: Results - Model Evaluation, Validation, Justification
+## The first model (CNN model from scratch) Test accuracy: 5.0239%. 
+## The second model (CNN model with the pre-trained VGG-16 model) Test accuracy: 42.9426%
+## The third model (CNN model with the pre-trained InceptionV3 model) Test accuracy: 79.3062%
+### The second and third model were much better than the first one because of transfer learning. Also the third model is better than the second one because the InceptionV3 works better than VGG16 in the given dataset. 
 
 # Section 5: Conclusion
-## Reflection: 
+## Reflection - We have classified dog breeds using CNNs. We detected human faces with Haar feature-based cascade classifiers and dogs with ResNet-50 transfer learning. Finally, we classifed dog breeds by CNN models with and without transfer learning VGG16 and Inception V3. 
+
 ## Improvement: 
+### We can image Augmentation to improve furter performance. 
+### we can increase number of epoch and use early stopping to monitor metrics and stop training when performance on a validation dataset starts to decrease.
