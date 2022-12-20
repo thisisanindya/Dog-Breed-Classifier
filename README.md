@@ -25,15 +25,29 @@
 ## Data Exploration, Visualization: 
 ### There are 133 total dog categories.
 ### There are 8351 total dog images.
-
 ### There are 6680 training dog images.
 ### There are 835 validation dog images.
 ### There are 836 test dog images.
 
 # Section 3: Methodology
 ## Data Preprocessing: 
+### Detect Humans - We use OpenCV's implementation of Haar feature-based cascade classifiers to detect human faces in images. 
+
+### Detect Dogs - In this section, we use a pre-trained ResNet-50 model to detect dogs in images. 
+
 ## Implementation: 
-## Refinement: 
+### Detecting humans - We use OpenCV's implementation of Haar feature-based cascade classifiers to detect human faces in images. OpenCV provides many pre-trained face detectors. In this project, we use haarcascades pre-trained face detectors stored as haarcascades/haarcascade_frontalface_alt.xml.
+
+### Detecting Dogs - We use a pre-trained ResNet-50 model to detect dogs in images with weights that have been trained on ImageNet, a very large, very popular dataset used for image classification and other vision tasks. ImageNet contains over 10 million URLs, each linking to an image containing an object from one of 1000 categories. 
+
+### Classifying Dog Breeds - For classification, we try below CNN models to find the best one:
+#### Building CNN model from scratch - CNN model from scratch without transfer learning. This has three convolutional layers followed by max-pooling layer. Next is the flatten layer to flatten the array to a vector. softmax activation function to convert the scores from the output into probability values.
+
+#### Building CNN model using transfer learning: VGG16 - We use the pre-trained VGG-16 model as a fixed feature extractor, where the last convolutional output of VGG-16 is fed as input to our model. We add a global average pooling layer and a fully connected layer, where the latter has one node for each dog category and is supported by a softmax function.
+
+#### Building CNN model using transfer learning: InceptionV3 - Finally we use InceptionV3 as a pre-trained CNN. It has a total of multiple layers and parts. This is more computationally efficient. Next is the GlobalAveragePooling2D layer. That takes 4D tensor (output of pre-trained CNN) as input and then returns 2D tensor by applying average pooling on the spatial dimensions. Finally, the Dense layer has a softmax activation function and 133 nodes, one node for each dog breed in the dataset.
+
+## Refinement: For hyperparameter tuning, we use ModelCheckpoint of keras.callbacks with 25 epochs to measure accuracy and loss. The best modelinto a file.
 
 # Section 4: Results
 ## Model Evaluation and Validation: 
