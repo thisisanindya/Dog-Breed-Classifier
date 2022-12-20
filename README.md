@@ -1,23 +1,28 @@
 # Dog-Breed-Classifier
-Dog-Breed-Classifier
-Section 1: Project Definition
+
+Section 1: 
+Project Definition
 Project Overview: 
 Problem Statement: 
 Metrics: 
 
-Section 2: Analysis
+Section 2: 
+Analysis
 Data Exploration: 
 Data Visualization: 
 
-Section 3: Methodology
+Section 3: 
+Methodology
 Data Preprocessing: 
 Implementation: 
 Refinement: 
 
-Section 4: Results
+Section 4: 
+Results
 Model Evaluation and Validation: 
 Justification: 
 
-Section 5: Conclusion
+Section 5: 
+Conclusion
 Reflection: 
 Improvement: 
