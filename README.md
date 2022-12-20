@@ -60,4 +60,4 @@
 
 ## Improvement: 
 ### We can image Augmentation to improve furter performance. 
-### we can increase number of epoch and use early stopping to monitor metrics and stop training when performance on a validation dataset starts to decrease.
+### We can increase number of epoch and use early stopping to monitor metrics and stop training when performance on a validation dataset starts to decrease.
