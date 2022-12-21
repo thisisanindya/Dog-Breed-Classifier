@@ -59,5 +59,5 @@
 ## Reflection - We have classified dog breeds using CNNs. We detected human faces with Haar feature-based cascade classifiers and dogs with ResNet-50 transfer learning. Finally, we classifed dog breeds by CNN models with and without transfer learning VGG16 and Inception V3. 
 
 ## Improvement: 
-### We can image Augmentation to improve furter performance. 
+### We can do image Augmentation to improve performance further. 
 ### We can increase number of epoch and use early stopping to monitor metrics and stop training when performance on a validation dataset starts to decrease.
