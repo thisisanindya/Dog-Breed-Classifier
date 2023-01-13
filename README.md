@@ -61,3 +61,7 @@
 ## Improvement: 
 ### We can do image Augmentation to improve performance further. 
 ### We can increase number of epoch and use early stopping to monitor metrics and stop training when performance on a validation dataset starts to decrease.
+
+# Section 5: web App Using Flask
+## Run runit.py using python runit.py
+## Refer the Word Document web-app.doc This contains prequisites and details steps how the web app is run locally. 
