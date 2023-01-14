@@ -80,16 +80,16 @@
 ### prompt shows flask app is running as displayed below: 
 ![image](https://user-images.githubusercontent.com/42642798/212485164-27cd6c46-3065-4e0f-98f5-7e7a37b61a5d.png)
 
-Open the browser and go to http://192.168.0.127:5000/. Below page opens up. 
+### Open the browser and go to http://192.168.0.127:5000/. Below page opens up. 
 ![image](https://user-images.githubusercontent.com/42642798/212485181-3333c5c6-808c-443c-89a3-89a9b5210e8f.png)
 
-Click on “Choose File” and select “Brittany_02614.jpg” and click on open. 
+### Click on “Choose File” and select “Brittany_02614.jpg” and click on open. 
 ![image](https://user-images.githubusercontent.com/42642798/212485200-7ae67f3c-19e3-4ae1-99c0-a8fd95344327.png)
 
-File name gets displayed on the screen. 
+### File name gets displayed on the screen. 
 ![image](https://user-images.githubusercontent.com/42642798/212485212-d8781c75-13b2-4916-9590-acf685288708.png)
 
-Click on submit. 
+### Click on submit. 
 ![image](https://user-images.githubusercontent.com/42642798/212485220-04000c30-5cc2-4969-b638-f168121fb058.png)
 
 Picture of the dog and the prediction displayed on the page.  Now select a different dog image say – “Brittany_02625.jpg”
@@ -98,8 +98,22 @@ Picture of the dog and the prediction displayed on the page.  Now select a diffe
 Picture of the dog and the prediction displayed on the page. 
 ![image](https://user-images.githubusercontent.com/42642798/212485275-61b77549-7793-4bc1-9026-fe4910679b08.png)
 
+![image](https://user-images.githubusercontent.com/42642798/212485439-4476506f-9235-41df-97ce-967d08504ce4.png)
 
+### Now select a different dog image say – “Golden_retriever_05186.jpg”. Click on Open and them submit. 
+![image](https://user-images.githubusercontent.com/42642798/212485457-300142ab-54ef-4584-bed5-ecd6f12a3e64.png)
 
+### Picture of the dog is and the prediction displayed on the page.
+![image](https://user-images.githubusercontent.com/42642798/212485468-c732e9e8-40de-4f32-b0b0-29bcb4a6092b.png)
 
+### Now select an image of a human, say “human-3.jpg” and then click open and submit. 
+![image](https://user-images.githubusercontent.com/42642798/212485481-be03b83e-2bd0-49b5-a48a-14466ee7d3e8.png)
 
+### The app identifies as a human face and predicts then predicts the corresponding dog breed. 
+![image](https://user-images.githubusercontent.com/42642798/212485492-b9a343cb-9d75-4738-b3b9-57377ed1701c.png)
 
+### Now finally select an image which  is neither of dog or of a human say - “circle.jpg”. Then click on open and submit. 
+![image](https://user-images.githubusercontent.com/42642798/212485504-e393d27a-f496-4df5-bbba-451f236d8757.png)
+
+### The app correctly suggests that - “This photo contains neither a human nor a dog." 
+![image](https://user-images.githubusercontent.com/42642798/212485516-84b5c186-7bf6-4ca2-8976-343eaacd16c8.png)
