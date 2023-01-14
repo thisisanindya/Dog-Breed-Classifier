@@ -75,5 +75,6 @@ Also install waitress to better support flask
 Steps to run the web app: 
 Run the web app from the command prompt: python runit.py
 
+![image](https://user-images.githubusercontent.com/42642798/212484810-c1b612bc-4286-47cf-9f4f-1de2dcd36dfa.png)
 
 
