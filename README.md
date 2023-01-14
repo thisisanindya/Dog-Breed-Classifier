@@ -95,8 +95,6 @@ Picture of the dog and the prediction displayed on the page.  Now select a diffe
 Picture of the dog and the prediction displayed on the page. 
 ![image](https://user-images.githubusercontent.com/42642798/212485275-61b77549-7793-4bc1-9026-fe4910679b08.png)
 
-![image](https://user-images.githubusercontent.com/42642798/212485439-4476506f-9235-41df-97ce-967d08504ce4.png)
-
 ### Now select a different dog image say – “Golden_retriever_05186.jpg”. Click on Open and them submit. 
 ![image](https://user-images.githubusercontent.com/42642798/212485457-300142ab-54ef-4584-bed5-ecd6f12a3e64.png)
 
