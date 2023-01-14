@@ -66,15 +66,15 @@
 ## Run runit.py using python runit.py
 ## Refer the Word Document web-app.doc This contains prequisites and details steps how the web app is run locally. 
 
-##Prerequisite: 
-###•	conda install -c conda-forge keras
-###•	conda install tensorflow
-###•	pip install opencv-python
-##Also install waitress to better support flask
-###•	conda install -c conda-forge waitress
+## Prerequisite: 
+### •	conda install -c conda-forge keras
+### •	conda install tensorflow
+### •	pip install opencv-python
+## Also install waitress to better support flask
+### •	conda install -c conda-forge waitress
 
-##Steps to run the web app: 
-###Run the web app from the command prompt: python runit.py
+## Steps to run the web app: 
+### Run the web app from the command prompt: python runit.py
 ![image](https://user-images.githubusercontent.com/42642798/212484810-c1b612bc-4286-47cf-9f4f-1de2dcd36dfa.png)
 
 
