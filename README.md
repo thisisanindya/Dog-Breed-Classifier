@@ -89,11 +89,11 @@
 ### Click on submit. 
 ![image](https://user-images.githubusercontent.com/42642798/212485220-04000c30-5cc2-4969-b638-f168121fb058.png)
 
-Picture of the dog and the prediction displayed on the page.  Now select a different dog image say – “Brittany_02625.jpg”
+### Picture of the dog and the prediction displayed on the page.  Now select a different dog image say – “Brittany_02625.jpg”
 ![image](https://user-images.githubusercontent.com/42642798/212485261-5f71eeee-026e-437c-a18e-c15b9a109536.png)
 
-Picture of the dog and the prediction displayed on the page. 
-![image](https://user-images.githubusercontent.com/42642798/212485275-61b77549-7793-4bc1-9026-fe4910679b08.png)
+### Picture of the dog and the prediction displayed on the page. 
+![image](https://user-images.githubusercontent.com/42642798/212485808-d203d4a8-4bd2-4a3a-bcd1-10f140d7ee7c.png)
 
 ### Now select a different dog image say – “Golden_retriever_05186.jpg”. Click on Open and them submit. 
 ![image](https://user-images.githubusercontent.com/42642798/212485457-300142ab-54ef-4584-bed5-ecd6f12a3e64.png)
