@@ -77,6 +77,29 @@
 ### Run the web app from the command prompt: python runit.py
 ![image](https://user-images.githubusercontent.com/42642798/212484810-c1b612bc-4286-47cf-9f4f-1de2dcd36dfa.png)
 
+### prompt shows flask app is running as displayed below: 
+![image](https://user-images.githubusercontent.com/42642798/212485164-27cd6c46-3065-4e0f-98f5-7e7a37b61a5d.png)
+
+Open the browser and go to http://192.168.0.127:5000/. Below page opens up. 
+![image](https://user-images.githubusercontent.com/42642798/212485181-3333c5c6-808c-443c-89a3-89a9b5210e8f.png)
+
+Click on “Choose File” and select “Brittany_02614.jpg” and click on open. 
+![image](https://user-images.githubusercontent.com/42642798/212485200-7ae67f3c-19e3-4ae1-99c0-a8fd95344327.png)
+
+File name gets displayed on the screen. 
+![image](https://user-images.githubusercontent.com/42642798/212485212-d8781c75-13b2-4916-9590-acf685288708.png)
+
+Click on submit. 
+![image](https://user-images.githubusercontent.com/42642798/212485220-04000c30-5cc2-4969-b638-f168121fb058.png)
+
+Picture of the dog and the prediction displayed on the page.  Now select a different dog image say – “Brittany_02625.jpg”
+![image](https://user-images.githubusercontent.com/42642798/212485261-5f71eeee-026e-437c-a18e-c15b9a109536.png)
+
+Picture of the dog and the prediction displayed on the page. 
+![image](https://user-images.githubusercontent.com/42642798/212485275-61b77549-7793-4bc1-9026-fe4910679b08.png)
+
+
+
 
 
 
