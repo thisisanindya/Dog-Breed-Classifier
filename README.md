@@ -112,3 +112,5 @@
 
 ### The app correctly suggests that - “This photo contains neither a human nor a dog." 
 ![image](https://user-images.githubusercontent.com/42642798/212485516-84b5c186-7bf6-4ca2-8976-343eaacd16c8.png)
+
+### You can also refer to web-app.docx. 
