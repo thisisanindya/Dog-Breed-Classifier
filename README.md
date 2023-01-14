@@ -104,7 +104,7 @@
 ### Now select an image of a human, say “human-3.jpg” and then click open and submit. 
 ![image](https://user-images.githubusercontent.com/42642798/212485481-be03b83e-2bd0-49b5-a48a-14466ee7d3e8.png)
 
-### The app identifies as a human face and predicts then predicts the corresponding dog breed. 
+### The app identifies as a human face and predicts the corresponding dog breed. 
 ![image](https://user-images.githubusercontent.com/42642798/212485492-b9a343cb-9d75-4738-b3b9-57377ed1701c.png)
 
 ### Now finally select an image which  is neither of dog or of a human say - “circle.jpg”. Then click on open and submit. 
