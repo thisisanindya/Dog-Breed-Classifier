@@ -62,7 +62,7 @@
 ### We can do image Augmentation to improve performance further. 
 ### We can increase number of epoch and use early stopping to monitor metrics and stop training when performance on a validation dataset starts to decrease.
 
-# Section 5: web App Using Flask
+# Section 5: Web App Using Flask
 ## Prerequisite: 
 ### •	conda install -c conda-forge keras
 ### •	conda install tensorflow
@@ -114,3 +114,7 @@
 ![image](https://user-images.githubusercontent.com/42642798/212485516-84b5c186-7bf6-4ca2-8976-343eaacd16c8.png)
 
 ### You can also refer to web-app.docx. 
+
+# Section 6: Acknowledgement
+### Dataset Credit - Thanks to Udacity for providing such a huge dataset. 
+### Others: Thanks to Udacity for excellent course material and also to the mentors for timely help.  
